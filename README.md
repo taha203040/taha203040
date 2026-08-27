@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A Professional Backend Engineer Full Stack NODE_JS Developer | AWS | Microservices | AI Integration</h3>
 
-- 💬 Ask me about **Backend , optimation ,**
+- 💬 Ask me about **Backend , Frontend  , optimization, Tech Solutions ** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
